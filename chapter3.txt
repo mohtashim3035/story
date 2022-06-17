@@ -1,1 +1,11 @@
 this following text has been writen after the complition of chapter2 and it contain the complete text after chapter2 i have do idea what to write in thes text file but trying to write some thing that in dont even know what iam wwrite at the movemnt and kya bolu bhia kuch bhe lik dhareu yaro abb kya karu bolo jee aare bhai bgn kya ke aak kuch bhe nahi aare mind meh chalo fir abb bas dikhre itna text 
+
+
+
+
+
+this text has been written after the rollback of the chapter 3 to its porevious version
+bit the verson controle system
+git command
+the command was - git checkout chapter3.txt
+
